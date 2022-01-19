@@ -1,4 +1,4 @@
-(defproject org.kipz/rpm-version-clj "0.0.2"
+(defproject org.kipz/rpm-version-clj "0.0.3-SNAPSHOT"
   :description "Parse and compare rpm package versions in clojure"
   :url "https://github.com/kipz/rpm-version-clj"
   :license {:name "Eclipse Public License"
